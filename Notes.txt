@@ -1,0 +1,10 @@
+git status // Pour afficher les status des fichiers modifies -> suivre les instructions en fonction de ce qu'on veut faire
+git add ...   // Envoyer le fichier modifié à la zone de preparation de git
+git commit -m "Commentaire que on veut ajouter"   // Envoye
+git push    // envoyer la version 
+
+--------------------------------------------------------
+------ Ajouter un fichier: -------
+
+git log    // ???
+
